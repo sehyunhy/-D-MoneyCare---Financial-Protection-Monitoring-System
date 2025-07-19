@@ -14,7 +14,7 @@
   - 2023년 기준 치매 관련 금융 피해는 **GDP 6.4 %** 규모  
   - 2050년엔 **488 조 원(≈ GDP 15 %)**까지 늘 전망  
 - 단순 사기를 넘어 국가 경제에도 부담 → **선제적 보호 시스템** 필요  
-  (출처: [보건복지부 보도자료](https://www.betterfuture.go.kr/front/notificationSpace/pressReleaseDetail.do?articleId=470))
+  (출처: [저출산고령사회위원회 보도자료](https://www.betterfuture.go.kr/front/notificationSpace/pressReleaseDetail.do?articleId=470))
 
 ---
 
